@@ -7,7 +7,7 @@ on:
 env:
   BUILD_CONFIGURATION: Release
   PROJECT_PATH: SimpleWebAPI/SimpleWebAPI.csproj
-  WEBAPP_QA: ClimaCordoba-QA         # <- tu WebApp QA
+  WEBAPP_QA: ClimaCordoba-GITHUB         # <- tu WebApp QA
   WEBAPP_PROD: ClimaCordoba-Prod     # <- tu WebApp Prod (ajustá el nombre)
 
 jobs:
